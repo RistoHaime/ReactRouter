@@ -1,3 +1,7 @@
+Ohjeet otettu:
+https://haagahelia.github.io/frontendprogramming/docs/3rdpartycomponents/router
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
