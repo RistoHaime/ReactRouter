@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: medium;
+}
+
+h1{
+  display:flexbox;
+  border-radius: 5cm;
+  margin: 0;
+  padding-bottom: 30px;
+  padding-inline: 100px;
+  background-color: gray;
+  color: rgb(19, 55, 82);
+}
